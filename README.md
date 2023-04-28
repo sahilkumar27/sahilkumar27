@@ -17,7 +17,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-<img align="right" alt="coding" width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img align="right" alt="coding" width="55%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar27" /> </p>
 
