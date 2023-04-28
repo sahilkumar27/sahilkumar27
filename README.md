@@ -1,4 +1,4 @@
-<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif&theme=dark" alt="image" />
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="image" />
 
 <h1 align="center">
  
