@@ -17,7 +17,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-<img align="right" alt="coding" width="35%" src="https://camo.githubusercontent.com/b39d19b436e278d8f0396490b6a70ffcdcbcc585840f48b471fdf94d6ec44b54/68747470733a2f2f692e696d6775722e636f6d2f3471596f6c4b752e676966" />
+<img align="right" alt="coding" width="35%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar27" /> </p>
 
