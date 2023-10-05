@@ -10,7 +10,7 @@
 <br>
  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar27&theme=vision-friendly-dark&hide_border=false" alt="sahilkumar27"  width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar27&theme=vision-friendly-dark&hide_border=false" alt="sahilkumar27" width="55%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sahilkumar27" width="40%"/>
 </p>
 
