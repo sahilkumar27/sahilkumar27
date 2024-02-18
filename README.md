@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sahilkumar27" width="40%"/>
 </p>
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Fronted Web developer & Automation Tester from India</h3>
 
 
 <img align="right" alt="coding" width="55%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
