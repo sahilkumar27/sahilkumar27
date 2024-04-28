@@ -11,7 +11,7 @@
  
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar27&theme=radical&border=7F3FBF&background=0D1117" alt="sahilkumar27" width="55%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sahilkumar27" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="sahilkumar27" width="40%"/>
 </p>
 <p align="center">
   <a href="https://github.com/sahilkumar27">
