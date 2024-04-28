@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **JavaScript, DSA**
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **TESTING**
 
 - 📫 How to reach me **sahildhn27@gmail.com**
 
