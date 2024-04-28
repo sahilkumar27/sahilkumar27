@@ -22,7 +22,7 @@
 <h3 align="center">Dynamic Frontend Developer & Automation Tester Passionate About Web Development & QA | India</h3>
 
 
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
+<h2 align="center"> 🇮🇳 India's Weather ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
@@ -33,10 +33,10 @@
     </tr>
     <tr style="text-align:center">
         <td><b>light rain</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
-        <td><b>13°C</b></td>
-        <td><b>05:45 AM</b></td>
-        <td><b>06:01 PM</b></td>
-        <td><b>96%</b></td>
+        <td><b>36°C</b></td>
+        <td><b>06:12 AM</b></td>
+        <td><b>07:00 PM</b></td>
+        <td><b>76%</b></td>
     </tr>
 </table>
 
