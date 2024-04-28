@@ -77,9 +77,6 @@
 </p>
 
 
-<!-- ![Al sahilkumar27's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilkumar27&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
-
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
 
@@ -87,15 +84,10 @@
   <a href="https://github.com/sahilkumar27?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<!-- last activity section -->
+![Al sahilkumar27's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilkumar27&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## Activity Graph
-<!-- <h2 align="center">Activity Graph</h2> -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilkumar27/sahilkumar27/master/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Activity Graph"/>
-</p>
 
-<br>
+
 
 <!-- last refresh of readme section -->
 
