@@ -13,6 +13,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar27&theme=vision-friendly-dark&hide_border=false" alt="sahilkumar27" width="55%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sahilkumar27" width="40%"/>
 </p>
+<p align="center">
+  <a href="https://github.com/sahilkumar27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Al Sahil's GitHub Contribution"/>
+  </a>
+</p>
 
 <h3 align="center">Dynamic Frontend Developer & Automation Tester Passionate About Web Development & QA | India</h3>
 
