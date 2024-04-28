@@ -95,6 +95,13 @@
   <img src="https://raw.githubusercontent.com/sahilkumar27/sahilkumar27/master/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Activity Graph"/>
 </p>
 
+<h2 align="center">Activity Graph</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilkumar27/sahilkumar27/master/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Activity Graph"/>
+</p>
+
+
+
 
 <br>
 
