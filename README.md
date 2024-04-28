@@ -23,11 +23,11 @@
 
 <p align="left"> <a href="https://twitter.com/sahilkumar__27" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkumar__27?logo=twitter&style=for-the-badge" alt="sahilkumar__27" /></a> </p>
 
-- 🔭 I’m currently working on **SDET**
+- 🔭 I’m currently working on **SDET & Automation Engineer**
 
-- 🌱 I’m currently learning **JavaScript, DSA**
+- 🌱 I’m currently learning **Java, DSA**
 
-- 💬 Ask me about **TESTING**
+- 💬 Ask me about **Testing**
 
 - 📫 How to reach me **sahildhn27@gmail.com**
 
