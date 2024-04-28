@@ -1,3 +1,6 @@
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
+
+
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="image" />
 
 <h1 align="center">
