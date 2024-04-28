@@ -1,9 +1,12 @@
 <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="image" />
 
 <h1 align="center">
- 
+
+
+<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+ <!--
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=30&duration=2000&center=true&vCenter=true&lines=Hi+I'm+Sahil+Kumar%F0%9F%96%90;Frontend+web+developer;loves+Errors;+Adventures;Video+Editing;Software+Testing)
- 
+ -->
 </h1>
 
 
