@@ -31,18 +31,16 @@
 
 - 📫 How to reach me **sahildhn27@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect with me:</h3>
 
  <p align="left">
-
-
-</p>
-
 <a href="https://twitter.com/sahilkumar__27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilkumar__27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahilkumar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilkumar27" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilkumar__27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkumar__27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahil0159august" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahil0159august" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahilkumar__27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilkumar__27" height="30" width="40" /></a>
+
+</p>
 
 <!-- random web quotation -->
 <img align="right" alt="coding" width="55%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
