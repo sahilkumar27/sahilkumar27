@@ -52,14 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original-wordmark.svg" alt="Selenium" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-<img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/40925551?s=200&v=4" alt="Karate" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Atlassian_Jira_%282019%29.svg/1200px-Atlassian_Jira_%282019%29.svg.png" alt="Jira" width="40" height="40"/>
-<img src="https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-btafcj/SlackPrimary.svg" alt="Slack" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="40" height="40"/>
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://www.iconspng.com/images/mariadb-logo/mariadb-logo.jpg" alt="MariaDB" width="40" height="40"/>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
