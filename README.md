@@ -22,6 +22,24 @@
 <h3 align="center">Dynamic Frontend Developer & Automation Tester Passionate About Web Development & QA | India</h3>
 
 
+<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
+<table align="center" style="width:50%">
+    <tr style="text-align:center">
+        <th>Weather</th>
+        <th>Temperature</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Humidity</th>
+    </tr>
+    <tr style="text-align:center">
+        <td><b>light rain</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
+        <td><b>13°C</b></td>
+        <td><b>05:45 AM</b></td>
+        <td><b>06:01 PM</b></td>
+        <td><b>96%</b></td>
+    </tr>
+</table>
+
 <img align="right" alt="coding" width="55%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
