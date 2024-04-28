@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sahilkumar27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumar27&theme=vision-friendly-dark&hide_border=false" alt="Al Sahil's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumar27&theme=radical" alt="Al Sahil's GitHub Contribution"/>
   </a>
 </p>
 
