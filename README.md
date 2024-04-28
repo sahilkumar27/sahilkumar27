@@ -32,7 +32,7 @@
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>Warm</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
+        <td><b>Warm</b><img width="15" src="http://openweathermap.org/img/w/10n.png"></td>
         <td><b>39°C</b></td>
         <td><b>06:12 AM</b></td>
         <td><b>07:00 PM</b></td>
