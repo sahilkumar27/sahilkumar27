@@ -94,4 +94,3 @@
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Saturday, April 27, 7:47 PM GMT-5</b>
