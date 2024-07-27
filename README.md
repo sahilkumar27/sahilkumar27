@@ -24,8 +24,8 @@
 
 <h3 align="center">Dynamic Frontend Developer & Automation Tester Passionate About Web Development & QA | India</h3>
 
-
-<h2 align="center"> 🇮🇳 India's Weather ⛅ </h2>
+<!--
+<h2 align="center"> India's Weather ⛅ </h2>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
@@ -42,7 +42,7 @@
         <td><b>76%</b></td>
     </tr>
 </table>
-
+-->
 <img align="right" alt="coding" width="55%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
