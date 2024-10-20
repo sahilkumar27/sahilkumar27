@@ -5,8 +5,9 @@
 
 <h1 align="center">
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=30&duration=2000&center=true&vCenter=true&lines=Hi+I'm+Sahil+Kumar%F0%9F%96%90;Software+Engineer;loves+Errors;+Adventures;Video+Editing)
- 
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=30&duration=2000&center=true&vCenter=true&lines=Hi+I'm+Sahil+Kumar%F0%9F%96%90;Software+Engineer;loves+Errors;+Adventures;Video+Editing) -->
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF69B4&size=30&duration=2000&center=true&vCenter=true&lines=Hi+I'm+Sahil+Kumar%F0%9F%96%90;Software+Engineer;loves+Errors;+Adventures;Video+Editing)
+
 </h1>
 
 
