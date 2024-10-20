@@ -1,8 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
 
-<!-- <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="image" /> -->
-
 <h1 align="center">
  
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=30&duration=2000&center=true&vCenter=true&lines=Hi+I'm+Sahil+Kumar%F0%9F%96%90;Software+Engineer;loves+Errors;+Adventures;Video+Editing) -->
@@ -10,9 +8,7 @@
 
 </h1>
 
-
 <br>
- 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar27&theme=radical&border=7F3FBF&background=0D1117" alt="sahilkumar27" width="55%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar27&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="sahilkumar27" width="40%"/>
