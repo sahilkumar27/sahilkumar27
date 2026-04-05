@@ -42,7 +42,6 @@
 -->
 <img align="right" alt="coding" width="55%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <p align="right-up"> <img src="https://komarev.com/ghpvc/?username=sahilkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar27" /> </p>
 
