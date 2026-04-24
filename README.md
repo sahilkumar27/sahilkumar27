@@ -47,7 +47,7 @@
 
 - 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **Java, System Design and DSA**
+- 🌱 I’m currently learning **Java and System Design**
 
 - 💬 Ask me about **Product Delivery, Testing, Development, and System Design**
 
