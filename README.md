@@ -45,11 +45,11 @@
 
 <p align="right-up"> <img src="https://komarev.com/ghpvc/?username=sahilkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar27" /> </p>
 
-- 🔭 I’m currently working on **SDET & Automation Engineer**
+- 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **Java, DSA**
+- 🌱 I’m currently learning **Java, System Design and DSA**
 
-- 💬 Ask me about **Testing**
+- 💬 Ask me about **Product Delivery, Testing, Development, and System Design**
 
 - 📫 How to reach me **sahildhn27@gmail.com**
 
